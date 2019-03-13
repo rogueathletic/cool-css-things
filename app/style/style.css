@@ -2842,6 +2842,8 @@ a {
 
 p {
   margin-left: 30px;
+  color:rgb(218, 216, 216);
+  text-align: justify;
 }
 
 h3 {
@@ -2887,10 +2889,12 @@ color: rgb(6, 202, 143);
   clear: both;
   font-family: 'Montserrat', sans-serif;
   
+  
 }
 body,
 html{
 background-color: dimgrey;
+
 }
 
 details,
